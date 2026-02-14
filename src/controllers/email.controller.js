@@ -49,7 +49,7 @@ exports.sendEmailHandler = async (req, res) => {
 
                             <!-- CTA Button -->
                             <div style="text-align: center; margin: 30px 0;">
-                                <a href="#" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 35px; text-decoration: none; border-radius: 25px; font-weight: 600; font-size: 14px; display: inline-block;">Start Using RecoTrack →</a>
+                                <a href="https://recotrackpiyushsingh.vercel.app/login" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 35px; text-decoration: none; border-radius: 25px; font-weight: 600; font-size: 14px; display: inline-block;">Start Using RecoTrack Now→</a>
                             </div>
 
                             <!-- Divider -->
@@ -120,7 +120,7 @@ exports.sendEmailHandler = async (req, res) => {
 
                             <!-- CTA Button -->
                             <div style="text-align: center; margin: 30px 0;">
-                                <a href="#" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 35px; text-decoration: none; border-radius: 25px; font-weight: 600; font-size: 14px; display: inline-block;">Start Using RecoTrack →</a>
+                                <a href="https://recotrackpiyushsingh.vercel.app/login" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 35px; text-decoration: none; border-radius: 25px; font-weight: 600; font-size: 14px; display: inline-block;">Start Using RecoTrack →</a>
                             </div>
 
                             <!-- Divider -->
